@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
-#Coded : Domath 
-#Author Hapus pun gak bikin lu pro
-#Jangan Hapus Copyright
-#Hargai Pembuat
+
+
+
+
 clear
 echo
 echo -e  '\e[1;36m' "Author :"'\e[1;36m'" Domath"
