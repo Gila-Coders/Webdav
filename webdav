@@ -1,20 +1,14 @@
 #!/data/data/com.termux/files/usr/bin/bash
-#Coded : Domath 
-#Author Hapus pun gak bikin lu pro
-#Jangan Hapus Copyright
-#Hargai Pembuat
 clear
 echo
-echo -e  '\e[1;36m' "Author :"'\e[1;36m'" Domath"
-echo -e '\e[1;36m' "Blog :"'\e[1;37m'" http://gilacoders.blogspot.com"
+echo -e  '\e[1;36m' "Create :"'\e[1;36m'" Domath"
 echo -e '\e[1;32m' "Note : Taruh Sc di Internal."                                                                                           
 echo -e '\e[1;31m' "01]"'\e[1;37m'" Mulai Tebas"             
 echo -e '\e[1;31m' "02]"'\e[1;37m'" Keluar"           
 echo -e '\e[1;36m' ""                                       
 read -p "Pilih => " dog;                                    
 if [ $dog = 1 ] || [ $dog = 01 ]                            
-then                                                        
-figlet -f small "WEBDAV" |lolcat                 
+then                                                                     
 echo -e '\e[1;37m' "Masukan Website Target"                 
 echo -n "Website : "                                        
 read website ;                                              
